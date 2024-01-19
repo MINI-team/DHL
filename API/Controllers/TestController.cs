@@ -12,7 +12,7 @@ namespace API.Controllers
         [HttpGet]
         public string test(int id)
         {
-            return "Works fine";
+            return "Works fine!";
         }
     }
 }
